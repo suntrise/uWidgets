@@ -33,7 +33,7 @@
 <img src=".github/images/clock-dark.png#gh-dark-mode-only" width="100" alt="时钟" align="left">
 
 ### 时钟
-**样式**: 3 种风格的模拟时钟、数字时钟、世界时钟 <br>
+**样式**: 3 种风格的指针时钟、数字时钟、世界时钟 <br>
 **特点**: 时区选择、12/24 小时模式、显示/隐藏秒
 
 <img src=".github/images/calendar-light.png#gh-light-mode-only" width="100" alt="日历" align="left">
